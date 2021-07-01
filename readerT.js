@@ -99,7 +99,7 @@ function getVoices() {
     option.innerText = `${voice.name} ${voice.lang}`;
 
     voicesSelect.appendChild(option);
-  });
+  }) ;
 }
 
 // Set text
